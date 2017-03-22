@@ -1,4 +1,4 @@
-#react-native-boilerplate
+# react-native-boilerplate
 
 ### Support
 
@@ -32,7 +32,9 @@ npm i
 react-native run-android or react-native run-ios
 ```
 
-* change app Name 
+### help
+
+* change app Name
 
 [change app name](http://stackoverflow.com/questions/32830046/renaming-a-react-native-project)
 
