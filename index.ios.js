@@ -10,4 +10,4 @@ import {
   AppRegistry,
 } from 'react-native';
 
-AppRegistry.registerComponent('nativeReact', () => Root);
+AppRegistry.registerComponent('reactNatvieBoilerplate', () => Root);

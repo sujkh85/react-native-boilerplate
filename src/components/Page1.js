@@ -22,10 +22,11 @@ class Page1 extends Component {
 
                     <Text>{this.props.text}</Text>
 
-                    <Text
-                        onPress={() => { this.props.changeText('changed !!') }}>
+                    <TouchableHighlight
+                        onPress={() => {
+                             this.props.changeText('changed !!') }}>
                         <Text>please Click</Text>
-                    </Text>
+                    </TouchableHighlight>
 
             </View>
         )
