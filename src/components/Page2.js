@@ -12,7 +12,7 @@ export default class Page2 extends Component {
         return(
             <View>
                 <Text style={{height:200}}>de!!!</Text>
-                <Text>de!!!</Text>
+                <Text>Page2!!!</Text>
                     <TouchableHighlight
                         onPress={() => { Actions.page1(); }}>
                         <Text>go home!</Text>
