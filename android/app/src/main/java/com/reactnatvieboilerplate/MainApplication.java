@@ -1,4 +1,4 @@
-package com.nativereact;
+package com.reactnatvieboilerplate;
 
 import android.app.Application;
 
