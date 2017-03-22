@@ -34,10 +34,8 @@ react-native run-android or react-native run-ios
 
 ### help
 
-* change app Name
-
 [change app name](http://stackoverflow.com/questions/32830046/renaming-a-react-native-project)
 
-* Failure to call AppRegistry.registerComponent
+* shown Failure to call AppRegistry.registerComponent
 
 [AppRegistry fail](http://stackoverflow.com/questions/35449248/failure-to-call-appregistry-registercomponent)
