@@ -14,6 +14,13 @@ store : redux
 
 * read get-start [react-native](https://facebook.github.io/react-native/docs/getting-started.html)
 
+* git clone
+
+```
+git clone https://github.com/sujkh85/react-native-boilerplate.git
+```
+
+
 * react-native-cli install
 
 ```
